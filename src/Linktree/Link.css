@@ -1,0 +1,77 @@
+.Link {
+  text-align: center;
+}
+
+.Link-logo {
+  height: 15vmin;
+  pointer-events: none;
+}
+
+.Link-titulo {
+  color: #61DAFB
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .Link-logo {
+    animation: Link-logo-spin infinite 20s linear;
+  }
+}
+
+.Link-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Link-header-div {
+  display: flex;
+}
+
+Link-header-dir {
+  display:'flex';
+  flex-direction: 'column';
+}
+
+.Link-link {
+  color: #61dafb;
+}
+
+@keyframes Link-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Link-button {
+  font-size: 125%; 
+  line-height: 1.5;
+  padding: .3em .8em;
+  color: white;
+  border: 1px solid #446d88;
+  border-radius: 2em;
+  background: transparent;
+  box-shadow: 0 .05em .25em gray;
+  text-shadow: 0 -.05em .05em #335166;
+  margin: 0.5em;
+  /* cursor: pointer; */
+}
+
+
+.Link-button:hover {
+  opacity: 0.8;
+}
+
+a:link, a:visited, a:active {
+  text-decoration: none;
+}
+
+
+

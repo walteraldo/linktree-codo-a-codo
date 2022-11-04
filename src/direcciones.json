@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "href": "https://meet.google.com/uoh-ftfo-nso",
+    "text": "Meet de las clases"          
+  },
+  {
+    "id": 2,
+    "href": "https://docs.google.com/forms/d/1r4rq77ULikgvICJ6WH9JceEEdKDOqUF0uoMXxkIhexw/viewform?edit_requested=true",
+    "text": "Asistencia"
+  },
+  {
+    "id": 3,
+    "href": "https://www.youtube.com/playlist?list=PL9FDV61UoWvLA8ctDSA4hl74jy9kZhsUz",
+    "text": "Clases grabadas"
+  },
+  {
+    "id": 4,
+    "href": "https://drive.google.com/drive/u/1/folders/1XmCDBtS5YLS0OLWzMGBgpM5QYYnXe_9X",
+    "text": "Back Up Drive"
+  },
+  {
+    "id": 5,
+    "href": "https://discord.com/channels/1001492149176647701/1001492150023901235",
+    "text": "Discord"
+  },
+  {
+    "id": 6,
+    "href": "https://github.com/DevJumpProf/comision22809",
+    "text": "Repositorio Clases"
+  },
+  {
+    "id": 7,
+    "href": "https://aulasvirtuales.bue.edu.ar/",
+    "text": "Aula virtual"
+    
+  },
+  {
+    "id": 8,
+    "href": "mailto:gabriel.munoz@bue.edu.ar",
+    "text": "Correo Profe"
+  }
+
+]

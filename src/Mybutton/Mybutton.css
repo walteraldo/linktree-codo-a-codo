@@ -1,0 +1,28 @@
+.my-button {
+  font-size: 75%; 
+  line-height: 1.5;
+  padding: .3em .8em;
+  border: 1px solid #446d88;
+  border-radius: 2em;
+  background: transparent;
+  box-shadow: 0 .05em .25em gray;
+  text-shadow: 0 -.05em .05em #335166;
+  margin: 0.5em;
+  cursor: pointer;
+  width: 240px;
+}
+
+
+.my-button:hover {
+  opacity: 0.8;
+  background-color: white;
+  color: #61DAFB;
+}
+
+a:link, a:visited, a:active {
+  text-decoration: none;
+  color: gray;
+}
+
+
+
